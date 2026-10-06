@@ -5,9 +5,14 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/_ImportedAssets/Thaleah_PixelFont/Thaleah_Demo.unity
+    guid: 180143f4a57f2124dae57257c95bc10a
+  - enabled: 1
+    path: Assets/Pixel_Text_Writer/Text_Test0.unity
+    guid: 85befbc2760d51e4f892f6b0306edabb
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
-  m_UseUCBPForAssetBundles: 0
